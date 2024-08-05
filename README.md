@@ -15,8 +15,10 @@ Description of files -:
 1. generate.py -
 
  
+i) 
 ![Screenshot (1280)](https://github.com/user-attachments/assets/a480da5b-3ee8-4fed-9ea9-93aeb78b47b1)
 
+ii)
 ![Screenshot (1279)](https://github.com/user-attachments/assets/40c7282b-3b6a-4929-a7ac-c198544ba3e6)
 
 
