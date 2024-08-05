@@ -1,7 +1,7 @@
 # falcon_hack
 
 # Introduction
-This is a streamlit web app developed which pick outs mistakes in a text given by user as input. This web app is basically made for students to guide them and helps them with their grammatical knowledge, correctness in their general knowledge, etc.  
+This is a streamlit study tutor web app which pick outs mistakes in a text given by user as input. This web app is basically made for students to guide them and helps them with their grammatical knowledge, correctness in their general knowledge, etc.  
 
 # Goal
 The goal of this project is to enhance a student's subject knowledge and writing skills.
