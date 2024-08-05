@@ -8,9 +8,7 @@ Tools and Technologies used -:
 
 1. Falcon LLM-180 B
 2. AI71 API
-3. Python 3.12 
-   >> streamlit
-   >> langchain_openai
+3. Python 3.12 - streamlit, langchain_openai
 
 Description of files -:
 
